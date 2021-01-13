@@ -47,5 +47,7 @@ public class Ex3 {
         //No he arribat a una forma mes neta de fer un ternari dins un altre 
 
         System.out.println(expressioFinal);
+      
+        
     }
 }
